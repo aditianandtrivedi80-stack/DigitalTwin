@@ -1,0 +1,6 @@
+
+{
+  "name": "TwinScale - Industrial Digital Twin Platform",
+  "description": "A high-fidelity Digital Twin platform for Industry 4.0, featuring Physics-Informed Neural Networks (PINN), GAN-based failure simulation, and Gemini-powered prescriptive maintenance.",
+  "requestFramePermissions": []
+}
